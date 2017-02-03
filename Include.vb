@@ -874,7 +874,7 @@ Function CheckNameFormat(myrange As Range)
 	'I am a second new line just for trying
 	'I am a third new line just for trying
 	'I am a fourth new line just for trying
-	'I am a fifth new line and I would love to end up in github online!
+	'I am a fifth new line and I would love to end up in github online! 
 
     With regEx
             .Global = True
