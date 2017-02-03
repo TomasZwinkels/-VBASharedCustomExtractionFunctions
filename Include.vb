@@ -870,6 +870,9 @@ Function CheckNameFormat(myrange As Range)
     Dim ErrorList As String
     
     strPattern = "[a-z]"
+	'I am a new line just for trying
+	'I am a second new line just for trying
+	'I am a third new line just for trying
 
     With regEx
             .Global = True
@@ -878,7 +881,7 @@ Function CheckNameFormat(myrange As Range)
             .Pattern = strPattern
         End With
 
-    'do this for all entries! get the line of the ones that are being a bitch
+    'do this for all entries! get the line of the ones that are being a 	 bitch
 
     index = 0
     Do Until index = myrange.Count
