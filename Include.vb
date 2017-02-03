@@ -873,6 +873,7 @@ Function CheckNameFormat(myrange As Range)
 	'I am a new line just for trying
 	'I am a second new line just for trying
 	'I am a third new line just for trying
+	'I am a fourth new line just for trying
 
     With regEx
             .Global = True
